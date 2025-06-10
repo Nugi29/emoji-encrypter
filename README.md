@@ -14,7 +14,7 @@ A fun Python tool that converts text messages into emoji codes! Transform your w
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/emoji-encrypter.git
+git clone https://github.com/Nugi29/emoji-encrypter.git
 cd emoji-encrypter
 ```
 
@@ -27,7 +27,7 @@ pip install pyperclip
 
 Run the program:
 ```bash
-python emoji_encrypter.py
+python main.py
 ```
 
 Then simply enter any message you want to encrypt:
